@@ -7,8 +7,8 @@ During our internship at **Loom Tex Exports**, we worked as **Data Analysts** fo
 ---
 
 ## 👨‍💻 Team Members
-- [Your Name](https://github.com/DarkAssassin007)
-- [Collaborator Name](https://github.com/Aakash02A)
+- [Aakash G](https://github.com/Aakash02A)
+- [Rahul R](https://github.com/DarkAssassin007)
 
 ---
 
