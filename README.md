@@ -4,7 +4,7 @@
 
 During my internship at **Loom Tex Exports**, Karur, I worked as a **Data Analyst** focusing on the operational data across the PPC, ERP, and HR departments. The main goal was to analyze, visualize, and help optimize workflows in the garment and textile production process — from **Sales Orders (SO)** to **Packing and Dispatch**.
 
-**ERP**: Enterprise Resource Planning
+**ERP**: Enterprise Resource Planning <BR>
 **PPC**: Production Planning and Control
 
 ---
